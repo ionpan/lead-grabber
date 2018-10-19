@@ -1,0 +1,16 @@
+{
+    "name": "ionpan/lead-grabber",
+    "description": "A simple tool save your leads in a MySQL database and a Mailchimp account.",
+    "keywords": ["wistia", "uploader"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Panagiotis Ioannidis",
+            "email": "ionpan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "drewm/mailchimp-api": "~2.5"
+    }
+}
