@@ -41,8 +41,6 @@
                 }
                 ?>
         </table>
-    </body>
-    <footer>
         <script src="/lead-grabber/assets/view.js"></script>
-    </footer>
+    </body>
 </html>
